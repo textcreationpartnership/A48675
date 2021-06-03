@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the names of all the subscribers to the Bank of England Note, those marked **** are capable of being chosen governor, deputy-governor, or directors: *** deputy-governor, or directors: ** directors: * have a vote, and no person more than one vote. The King's and Queen's Most Excellent Majesties</title>
+         </titleStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48675</idno><idno type="EEBO-CITATION">99829330</idno>
+  <idno type="VID">33767</idno>
+  <idno type="EEBO-PROQUEST">2240856453</idno>
+  
+            <idno type="STC">Wing L2464</idno>
+            <idno type="STC">ESTC R217675</idno>
+            <idno type="PROQUEST">99829330</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829330e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33767)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1869:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the names of all the subscribers to the Bank of England Note, those marked **** are capable of being chosen governor, deputy-governor, or directors: *** deputy-governor, or directors: ** directors: * have a vote, and no person more than one vote. The King's and Queen's Most Excellent Majesties</title>
+               </titleStmt>
+               <extent>2 sheets ([4] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Imperfect. Two defective copies filmed. Marsh's Library copy is creased, stained and torn, affecting text; Bodleian copy is creased and torn, affecting text.</note>
+                  <note>Reproduction of the original in the Marsh's Library, St. Patrick's Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Bank of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="subscription_list">
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:33767:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:33767:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:33767:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:33767:4"/>
+            <pb n="1" facs="tcp:33767:5"/>
+            <head>A LIST of the Names of all the Subscribers to the BANK of <hi>ENGLAND.</hi>
+            </head>
+            <p>Note, <hi>Those Marked</hi> **** <hi>are Capable of being Chosen</hi> Governor, Deputy-Governor, <hi>or</hi> Directors: *** Deputy-Governor, <hi>or</hi> Directors: ** Directors: * <hi>Have a Vote, and no Person more than one Vote.</hi>
+            </p>
+            <p>The KING's and QUEEN's Most Excellent Majesties
+<list>
+                  <item>*** <hi>THE Right Honourable Sir</hi> William Ashurst, <hi>Kt. and Lord Mayor of</hi> London</item>
+                  <item>**** <hi>Sir</hi> Thomas Abney, <hi>Kt. and Alderman.</hi>
+                  </item>
+                  <item>** Joseph Aunger</item>
+                  <item>** George Arnold</item>
+                  <item>** John Archer</item>
+                  <item>** <hi>Dame</hi> Mary Ash</item>
+                  <item>* <hi>Sir</hi> Edward Abney</item>
+                  <item>* Edward Anthony</item>
+                  <item>* Paul Allestree</item>
+                  <item>* Richard Adney</item>
+                  <item>* John Ayres</item>
+                  <item>* Henry Adderley</item>
+                  <item>* Isaac Aime</item>
+                  <item>* Robert Atwood</item>
+                  <item>* Roger Atley</item>
+                  <item>* Mordecai Abbot</item>
+                  <item>* Henry Acourt</item>
+                  <item>* William Addy</item>
+                  <item>* John Andrews</item>
+                  <item>* John Atterbury <hi>Junior</hi>
+                  </item>
+                  <item>* Russell Alsop</item>
+                  <item>* John Albertson</item>
+                  <item>Marmaduke Alford</item>
+                  <item>Henry Allen</item>
+                  <item>Oliver Atkey</item>
+                  <item>Richard Atkinson</item>
+                  <item>Brabason Aylmore</item>
+                  <item>
+                     <hi>Dame</hi> Ann Andrews</item>
+                  <item>Manuel de Almansa</item>
+                  <item>Thomas Ashby</item>
+                  <item>James Atkinson</item>
+                  <item>John Adams</item>
+                  <item>**** <hi>The Honourable</hi> Hugh Boscawen.</item>
+                  <item>**** Brook Bridges</item>
+                  <item>**** James Bateman</item>
+                  <item>**** James de la Brettoniere</item>
+                  <item>**** Bartholomew Burton</item>
+                  <item>**** William Brownlow</item>
+                  <item>*** Simon de Brien</item>
+                  <item>** <hi>Sir</hi> John Buckworth</item>
+                  <item>** Charles Balle</item>
+                  <item>** Joseph Bennett</item>
+                  <item>** John Bull</item>
+                  <item>** George Boddington</item>
+                  <item>** John du Bois</item>
+                  <item>** Adam Bellamy</item>
+                  <item>** Arthur Baron</item>
+                  <item>* <hi>The Right Honourable the Earl of</hi> Bradford.</item>
+                  <item>* <hi>The Countess of</hi> Bridgewater</item>
+                  <item>* John <hi>Lord</hi> Berkeley</item>
+                  <item>* John Bridger</item>
+                  <item>* Brooke Bridges <hi>Kensington</hi>
+                  </item>
+                  <item>* Bartholomew Beale</item>
+                  <item>* Edmund Bayly</item>
+                  <item>* Nicholas Baker</item>
+                  <item>* William Bridges</item>
+                  <item>* Thomas Barnes</item>
+                  <item>* Samuel Bulteel</item>
+                  <item>* John Bridge</item>
+                  <item>* Robert Bristow <hi>Senior</hi>
+                  </item>
+                  <item>* Robert Bristow <hi>Junior</hi>
+                  </item>
+                  <item>* James de Batts</item>
+                  <item>* Henry Buck</item>
+                  <item>* John Borret</item>
+                  <item>* Samuel Brewster</item>
+                  <item>* Charles Bland</item>
+                  <item>* Lancelot Burton</item>
+                  <item>* Paul Boyer</item>
+                  <item>* John Bridges</item>
+                  <item>* John Butterfield</item>
+                  <item>* Richard Bromhall</item>
+                  <item>* Thomas Benson</item>
+                  <item>* William Barnesly</item>
+                  <item>* Abraham Beake</item>
+                  <item>* Joseph Blisset</item>
+                  <item>* John Bickley</item>
+                  <item>* William Betts</item>
+                  <item>* Robert Beachcroft</item>
+                  <item>* Thomas Bedford</item>
+                  <item>* John Benson</item>
+                  <item>* Thomas Byfield</item>
+                  <item>* John Buttolph</item>
+                  <item>* Thomas Butler</item>
+                  <item>* Thomas Bowry</item>
+                  <item>* Daniel Barnard</item>
+                  <item>* Gibbons Bagnall</item>
+                  <item>* William Broughton</item>
+                  <item>* Timothy Burrell</item>
+                  <item>* Peter Burrell</item>
+                  <item>* Edward Barton</item>
+                  <item>* Thomas Brouncker</item>
+                  <item>* Francis Beyer</item>
+                  <item>* Richard le Bass</item>
+                  <item>* Elizabeth Bird</item>
+                  <item>* Mary Browne</item>
+                  <item>* <hi>Colonel</hi> James Butler</item>
+                  <item>* Robert Butler</item>
+                  <item>* Thomas Bland</item>
+                  <item>* Samuel Biscope</item>
+                  <item>* Henry Baldwin</item>
+                  <item>* George Bannister</item>
+                  <item>* Benjamin Brownsmith</item>
+                  <item>* Isaac Beringuire</item>
+                  <item>* Simon Baxter</item>
+                  <item>* Shem Bridges</item>
+                  <item>* Samuel Bradshaw</item>
+                  <item>* Thomas Batson</item>
+                  <item>* Thomas Bromfield</item>
+                  <item>* George Burrard</item>
+                  <item>* Emma Baker</item>
+                  <item>* Robert Boddington</item>
+                  <item>* William Browne</item>
+                  <item>* Mary Booth</item>
+                  <item>* George Bond</item>
+                  <item>* Mark Anthony de la Basteed.</item>
+                  <item>* William Boddington</item>
+                  <item>* Thomas Bereau</item>
+                  <item>* Slingesby Bethel</item>
+                  <item>* Richard Brinley</item>
+                  <item>* Paul Buissiere</item>
+                  <item>* Christopher Bale.</item>
+                  <item>* James Bruce</item>
+                  <item>* John Blagrave</item>
+                  <item>* John Billers</item>
+                  <item>* Isaac Bonovurier</item>
+                  <item>* Joseph Brooksbank</item>
+                  <item>* Isaac Brand</item>
+                  <item>* Robert Brough</item>
+                  <item>* Thomas Bathurst</item>
+                  <item>* Jonathan Blagrave</item>
+                  <item>* Samuel Blewet</item>
+                  <item>Nathaniel Browne</item>
+                  <item>John Blankard</item>
+                  <item>Marmaduke Bludder</item>
+                  <item>William Branson</item>
+                  <item>Richard Balam</item>
+                  <item>John Browne</item>
+                  <item>Daniel Biddle</item>
+                  <item>Martin Browne</item>
+                  <item>Robert Barker</item>
+                  <item>Magdalen Olimpia Beauchamp</item>
+                  <item>Elizabeth Boulter</item>
+                  <item>Humphry Bellamy</item>
+                  <item>Jane Baker</item>
+                  <item>Derick Barnevelt</item>
+                  <item>John Braguire</item>
+                  <item>Thomas Blythe</item>
+                  <item>Edward Banbridge</item>
+                  <item>Timothy Baigneaux</item>
+                  <item>Francis Barnham</item>
+                  <item>Grace Barnham</item>
+                  <item>James Augustus Blondel</item>
+                  <item>Mary Bellers</item>
+                  <item>
+                     <hi>Colonel</hi> William Blenner Hasset</item>
+                  <item>Edward Bull</item>
+                  <item>Thomas Barnwell</item>
+                  <item>Augustine Brewster</item>
+                  <item>Henry Berckeley</item>
+                  <item>Samuel Barton</item>
+                  <item>John Berriman</item>
+                  <item>Samuel Browne</item>
+                  <item>Moses Barrow</item>
+                  <item>Robert Burridge</item>
+                  <item>Tobias Bridge</item>
+                  <item>Arthur Branthwaite</item>
+                  <item>Daniel Browne</item>
+                  <item>John du Bourdieu.</item>
+                  <item>Benjamin Browne</item>
+                  <item>James Bestcheffer</item>
+                  <item>David Boucheret</item>
+                  <item>William Barry</item>
+                  <item>Elizabeth Barber</item>
+                  <item>Richard Beacher</item>
+                  <item>William Biggs</item>
+                  <item>Gilbert Bury</item>
+                  <item>Obadiah Burnet</item>
+                  <item>Edward Billingsly</item>
+                  <item>Henry Billingsly</item>
+                  <item>Robert Betsworth</item>
+                  <item>Mary Blankard</item>
+                  <item>John Barnes</item>
+                  <item>Robert Barker</item>
+                  <item>Samuel Bagwell</item>
+                  <item>Henry Bullock</item>
+                  <item>John Baker</item>
+                  <item>Samuel Burnell</item>
+                  <item>Nathaniel Blackiston</item>
+                  <item>Richard Borret</item>
+                  <item>Stephen Beckingham</item>
+                  <item>Daniel Brisack</item>
+                  <item>**** Elizabeth <hi>Countess of</hi> Carlisle</item>
+                  <item>**** Caesar Chambrelan</item>
+                  <item>**** Peter Du Cane</item>
+                  <item>*** Sir Charles Caesar</item>
+                  <item>*** Hugh Chudleigh</item>
+                  <item>*** Theodore le Coq</item>
+                  <item>*** Joseph Chambrelan</item>
+                  <item>** John Coleman <hi>Merchant</hi>
+                  </item>
+                  <item>** <hi>Sir</hi> John Cope</item>
+                  <item>** <hi>Sir</hi> William Cooper</item>
+                  <item>** <hi>Sir</hi> Robert Clayton</item>
+                  <item>** <hi>Sir</hi> John Chardin</item>
+                  <item>** Charles Chambrelan</item>
+                  <item>** <gap reason="illegible: blotted" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> du Cane</item>
+                  <item>** Edward Clarke</item>
+                  <item>** Thomas Cole</item>
+                  <item>** Richard Cradock</item>
+                  <item>** John Cooke</item>
+                  <item>** Theodore Colledon</item>
+                  <item>* <hi>Sir</hi> Robert Cotton</item>
+                  <item>* <hi>Sir</hi> William Cranmen</item>
+                  <item>* <hi>Sir</hi> William Craven</item>
+                  <item>* William Coatsworth</item>
+                  <item>* Awnsham Churchill</item>
+                  <item>* Geo. Churchill</item>
+                  <item>* Abrah. Ciprianus</item>
+                  <item>* Christopher Cope</item>
+                  <item>* Abraham Cassenave</item>
+                  <item>* John Coleman <hi>Djer</hi>
+                  </item>
+                  <item>* John Carter</item>
+                  <item>* John Cranmer</item>
+                  <item>* John Chadwick</item>
+                  <item>* Richard Cary</item>
+                  <item>* William Cooke</item>
+                  <item>* Thomas Crud.</item>
+                  <item>* Richard Crawley</item>
+                  <item>* Caleb Coatsworth</item>
+                  <item>* Francis le Coque</item>
+                  <item>* John Crawley</item>
+                  <item>* Edward Cresner.</item>
+                  <item>* Thomas Crispe</item>
+                  <item>* Nathaniel Camfield</item>
+                  <item>* Joseph Clarke</item>
+                  <item>* Gawen Corbin</item>
+                  <item>* William Chambers</item>
+                  <item>* Thomas Collet</item>
+                  <item>* Richard Chase</item>
+                  <item>* Thomas Clarke</item>
+                  <item>* Benjamin le Cane</item>
+                  <item>* Robert Chandler</item>
+                  <item>* George Cresner</item>
+                  <item>* Henry Carter</item>
+                  <item>* John Combe</item>
+                  <item>* John Chomley</item>
+                  <item>* William Chase</item>
+                  <item>* Renea Chamberlaine</item>
+                  <item>* Thomas Cross</item>
+                  <item>* Joseph Chaplin</item>
+                  <item>* Peter Causton</item>
+                  <item>* Nicholas Covert</item>
+                  <item>* Thomas Cristy</item>
+                  <item>* Peter Cartwright</item>
+                  <item>* Nathan Cooper</item>
+                  <item>* Reny de Clouseaux</item>
+                  <item>* John Craninbourgh</item>
+                  <item>* Francis Carswell</item>
+                  <item>* Richard Cheyny</item>
+                  <item>* Charles Cocks</item>
+                  <item>* Robert Cosms</item>
+                  <item>* James Cardonell</item>
+                  <item>* Charles Cox</item>
+                  <item>* Matthew Cadwell</item>
+                  <item>* Nicholas Cutler</item>
+                  <item>* Thomas Coleby</item>
+                  <item>* Henry Cornelison</item>
+                  <item>* Woolfran Cornwal</item>
+                  <item>Jonathan Cartwright</item>
+                  <item>Francis Chitty</item>
+                  <item>Andrew Coleman</item>
+                  <item>Joseph Collier</item>
+                  <item>Joseph Collens</item>
+                  <item>Abraham Chambers</item>
+                  <item>Robert Colby</item>
+                  <item>Richard Court</item>
+                  <item>Nicholas Cooper</item>
+                  <item>Francis Camfeild</item>
+                  <item>James Cooke</item>
+                  <item>William Coleman</item>
+                  <item>Arm Coleborne</item>
+                  <item>William Clarke</item>
+                  <item>Richard Clay</item>
+                  <item>Magdalen le Clerke</item>
+                  <item>Elizabeth Clay</item>
+                  <item>Thomas Crone</item>
+                  <item>Elizabeth Collet</item>
+                  <item>Frederiek Coleman</item>
+                  <item>Henry Coleman</item>
+                  <item>Nicholas Crispe</item>
+                  <item>Susanna Collier</item>
+                  <item>John Clapham</item>
+                  <item>John Cruwys</item>
+                  <item>Theophilus Cater</item>
+                  <pb n="2" facs="tcp:33767:6"/>
+                  <item> John Cole</item>
+                  <item>John Clarke</item>
+                  <item>Samuel Chapman</item>
+                  <item>Thomas Cooper</item>
+                  <item>Rebecca Claridge</item>
+                  <item>Charles Collinet</item>
+                  <item>Barbara Anna de Calvert</item>
+                  <item>Nicholas Clignet</item>
+                  <item>Judith de Courey</item>
+                  <item>Joseph Cake</item>
+                  <item>William Collins</item>
+                  <item>**** <hi>His Grace the Duke of</hi> Devon.</item>
+                  <item>**** George Doddington <hi>Esq;</hi>
+                  </item>
+                  <item>**** Thomas Doughty</item>
+                  <item>*** Richard Dalton</item>
+                  <item>** William Disher</item>
+                  <item>** James Denew</item>
+                  <item>** William Dawson</item>
+                  <item>** James Dusay</item>
+                  <item>** Gilbert Dolben</item>
+                  <item>* Richard Dixon</item>
+                  <item>* Thomas Dalton</item>
+                  <item>* John Delmé</item>
+                  <item>* Richard Dyer</item>
+                  <item>* Daniel Dorville</item>
+                  <item>* Tho. Ern Danckleman.</item>
+                  <item>* John Darby</item>
+                  <item>* Samuel Dodd</item>
+                  <item>* Michael Dieu</item>
+                  <item>* James de Dompier</item>
+                  <item>* Robert Doughty</item>
+                  <item>* Thomas Dixon</item>
+                  <item>* Edmond Dickinson</item>
+                  <item>* John Dennett</item>
+                  <item>* Thomas Dalley</item>
+                  <item>* John Dent</item>
+                  <item>* Joseph Ducasse</item>
+                  <item>* Geo. Nico. Dobbertin</item>
+                  <item>* Anna Maria Dormer</item>
+                  <item>* Alexander Duroure</item>
+                  <item>John Dillingham</item>
+                  <item>Michael Dunwell</item>
+                  <item>John Dodson</item>
+                  <item>Judith Dergnoux</item>
+                  <item>Joseph Duglis</item>
+                  <item>Elizabeth Dolins</item>
+                  <item>Jacob Dessea</item>
+                  <item>Michael Dickinson</item>
+                  <item>Robert Dawsort <hi>Senior</hi>
+                  </item>
+                  <item>Newcomb Dawson</item>
+                  <item>Elizabeth Deane</item>
+                  <item>Martha Dufour</item>
+                  <item>Rene Duvall</item>
+                  <item>William Dunbar</item>
+                  <item>Daniel Draycot</item>
+                  <item>— Duplex</item>
+                  <item>Francis Duprat</item>
+                  <item>Joshua Dearing</item>
+                  <item>Thomas Day</item>
+                  <item>Thomas Dunk</item>
+                  <item>** John Elwill</item>
+                  <item>* John English</item>
+                  <item>* John Ebsworth</item>
+                  <item>* Richard Edmondson</item>
+                  <item>* Humphry Edwin</item>
+                  <item>* John Egleron</item>
+                  <item>* Patrick Ellis</item>
+                  <item>* Maurice Emmet</item>
+                  <item>* Anthony Everdin</item>
+                  <item>* John Edmondson</item>
+                  <item>* Thomas Emes</item>
+                  <item>* William Evelyn</item>
+                  <item>* Henry Eyre</item>
+                  <item>* John Emelie</item>
+                  <item>* John Eston</item>
+                  <item>* Henry Emert</item>
+                  <item>* John Ellis</item>
+                  <item>* Isaac Ewre</item>
+                  <item>* Henry Edes</item>
+                  <item>Foulk Emes</item>
+                  <item>Jane Evans</item>
+                  <item>Josiah Ellis</item>
+                  <item>**** <hi>The Hon. Sir</hi> Stephen Fox, <hi>Kt</hi>
+                  </item>
+                  <item>**** <hi>Sir</hi> Henry Furnese, <hi>Kt.</hi>
+                  </item>
+                  <item>** <hi>The Right Honourable Lord</hi> Fitz harding.</item>
+                  <item>** <hi>Sir</hi> William Forrester</item>
+                  <item>** Thomas Felton</item>
+                  <item>** Barth. Fillingham</item>
+                  <item>** Charles Fox</item>
+                  <item>** Thomas Farrington</item>
+                  <item>** James Frontin</item>
+                  <item>** Thomas Frankland</item>
+                  <item>** Charles Feltham</item>
+                  <item>* <hi>Sir</hi> James Forbes</item>
+                  <item>* <hi>Sir</hi> Robert Faunce</item>
+                  <item>* Thomas Fyge</item>
+                  <item>* Thomas Farnborough <hi>Senior</hi>
+                  </item>
+                  <item>* Thomas Farnborough <hi>Junior</hi>
+                  </item>
+                  <item>* Daniel Fox</item>
+                  <item>* <hi>Dr.</hi> Thomas Fuller</item>
+                  <item>* Abraham Fromanteele</item>
+                  <item>* John Fensell</item>
+                  <item>* Edward Faulkingham</item>
+                  <item>* Robert Ford</item>
+                  <item>* Richard Farrington</item>
+                  <item>* Paul Fenoillet</item>
+                  <item>* Millicent Fuller</item>
+                  <item>* William Farnborough</item>
+                  <item>* William Fenwick</item>
+                  <item>* Andrew Fentzell</item>
+                  <item>* Mary Foulk</item>
+                  <item>* John Fisher</item>
+                  <item>* John Fargeon</item>
+                  <item>* Thomas Fisher</item>
+                  <item>* <hi>Coll.</hi> Edward Fitzpatrick</item>
+                  <item>* James Frasier</item>
+                  <item>Edmund Farthing</item>
+                  <item>Grace Finney</item>
+                  <item>Margaret de Farsey</item>
+                  <item>John Freake</item>
+                  <item>John le Farque</item>
+                  <item>William French</item>
+                  <item>William Farmer</item>
+                  <item>Edward Fenwick</item>
+                  <item>Rose Franklin</item>
+                  <item>Anthony Ferris.</item>
+                  <item>Averine Fillite</item>
+                  <item>John Fawre</item>
+                  <item>John Fisher</item>
+                  <item>Phillip Farwell</item>
+                  <item>Mary le Fort</item>
+                  <item>**** <hi>The Right Honourable</hi> Sidney <hi>Lord</hi> Godolphin.</item>
+                  <item>**** Sir William Gore <hi>Knt.</hi>
+                  </item>
+                  <item>**** Michael Godfrey</item>
+                  <item>**** Peter Godfrey</item>
+                  <item>**** Thomas Goddard</item>
+                  <item>**** Francis Gosfright</item>
+                  <item>**** William Gulston</item>
+                  <item>**** Edward Griffith</item>
+                  <item>**** John Germaine</item>
+                  <item>**** Thomas Grey</item>
+                  <item>** <hi>Colonel</hi> Charles Godfrey</item>
+                  <item>** Henry Guy</item>
+                  <item>** Thomas Guy</item>
+                  <item>** Nehemiah Grew</item>
+                  <item>** Gabriel Glover</item>
+                  <item>** Nathaniel Gould</item>
+                  <item>** William Gore</item>
+                  <item>** Benjamin Godfrey</item>
+                  <item>* Isaac Gerardine <hi>de la font</hi>
+                  </item>
+                  <item>* Lewis Gervaise</item>
+                  <item>* Nicholas Gambiere</item>
+                  <item>* John Gape</item>
+                  <item>* William Gardner</item>
+                  <item>* Thomas Glover</item>
+                  <item>* Anna Mary Godfrey</item>
+                  <item>* Thomas Gibson</item>
+                  <item>* Jaquez Gonsales</item>
+                  <item>* Charles Gore</item>
+                  <item>* Alexander Gigore</item>
+                  <item>* John Gore</item>
+                  <item>* Nathaniel Green</item>
+                  <item>* Thomas Gunston</item>
+                  <item>* Soloman de Guerin</item>
+                  <item>* Anthony Green</item>
+                  <item>* John Gibbon</item>
+                  <item>* Margret Godfrey</item>
+                  <item>* Henry Greswold</item>
+                  <item>* Edward Grace</item>
+                  <item>* Robert Gay</item>
+                  <item>* Francis Gillow</item>
+                  <item>* <hi>Dame</hi> Margr. Gossin</item>
+                  <item>* Peter Gelstrope</item>
+                  <item>* John Greening</item>
+                  <item>* Abraham Gilbert</item>
+                  <item>* Richard Guy</item>
+                  <item>* John Gibbon</item>
+                  <item>* Jane Gore</item>
+                  <item>* Peter de Gually</item>
+                  <item>* Frances Guise</item>
+                  <item>* Joshua Geering</item>
+                  <item>* Edward Gourney</item>
+                  <item>* Ralph Gore</item>
+                  <item>* Isaac Garnier</item>
+                  <item>* Wentworth Garneys</item>
+                  <item>* Henry Greenhill</item>
+                  <item>* John Graveroll</item>
+                  <item>* Thomas Guenault</item>
+                  <item>Robert Green</item>
+                  <item>Elizabeth Guilbert</item>
+                  <item>
+                     <hi>Dame</hi> Kather. Gore</item>
+                  <item>Philip Guide</item>
+                  <item>Kather. Frances Grenmere</item>
+                  <item>Jeremy Griffith</item>
+                  <item>Jacob Gideon</item>
+                  <item>Henry Godolphin</item>
+                  <item>Thomas Geering</item>
+                  <item>Ann Greswold</item>
+                  <item>Ann Gendrolt</item>
+                  <item>George Gibson</item>
+                  <item>Elizabeth Gibert</item>
+                  <item>William Grimbolston</item>
+                  <item>
+                     <hi>Dr.</hi> William Gould</item>
+                  <item>Geo. Toby Guiguir</item>
+                  <item>Alexander Geekie</item>
+                  <item>John Greenwood</item>
+                  <item>Ebenezer Gatton</item>
+                  <item>Marry Gawthorne</item>
+                  <item>Lovet Goring</item>
+                  <item>Triphena Grove</item>
+                  <item>Charles Goodall</item>
+                  <item>Nathaniel Gwillym</item>
+                  <item>Jeremiah Griffith</item>
+                  <item>**** <hi>The Honorable Sir</hi> Ro. Howard</item>
+                  <item>**** <hi>The Honourable Sir</hi> John Hou<g ref="char:EOLhyphen"/>blon</item>
+                  <item>**** <hi>Sir</hi> John Huband</item>
+                  <item>**** <hi>Sir</hi> James Houblon</item>
+                  <item>**** <hi>Sir</hi> William Hedges</item>
+                  <item>**** Abraham Houblon</item>
+                  <item>**** Matthew Humberston</item>
+                  <item>**** Thomas Howard</item>
+                  <item>**** Samuel Heathcott</item>
+                  <item>**** Gilbert Heathcott</item>
+                  <item>**** Thomas Hall</item>
+                  <item>**** Zachary Hickcox</item>
+                  <item>*** John Holland</item>
+                  <item>** Jasper Frederick Hening</item>
+                  <item>** Nathaniel Herne</item>
+                  <item>** William Heronard</item>
+                  <item>** Richard Holt</item>
+                  <item>** Christian Hazell</item>
+                  <item>** Urban Hall</item>
+                  <item>** Thomas Humfryes</item>
+                  <item>** Thomas Hunt</item>
+                  <item>** Richard Harnage</item>
+                  <item>* <hi>Sir</hi> Charles Hedges</item>
+                  <item>* Richard Hosler</item>
+                  <item>* John Hester</item>
+                  <item>* Thomas Le Heup</item>
+                  <item>* Benjamin Hill</item>
+                  <item>* Ann Hargrave</item>
+                  <item>* Margaret Haswell</item>
+                  <item>* William Hickman</item>
+                  <item>* John Hawkins</item>
+                  <item>* Thomas Howard <hi>Jun.</hi>
+                  </item>
+                  <item>* <hi>Lady</hi> Rebecca Herbert</item>
+                  <item>* James Hooper</item>
+                  <item>* Thomas Hodson</item>
+                  <item>* Oliver Horsman</item>
+                  <item>* David Haywood</item>
+                  <item>* Lewis <hi>Marquis</hi> d'Heucourt</item>
+                  <item>* Richard Hill</item>
+                  <item>* Nathaniel Holton</item>
+                  <item>* Daniel Hayes</item>
+                  <item>* Edward Harrison</item>
+                  <item>* Samuel Hellier</item>
+                  <item>* John Heathcott</item>
+                  <item>* John Harvy</item>
+                  <item>* Edward Holywell</item>
+                  <item>* William Humphreys</item>
+                  <item>* Humphry Hetherington</item>
+                  <item>* Francis Heywood</item>
+                  <item>* John Houblon <hi>Jun.</hi>
+                  </item>
+                  <item>* Elizabeth Hamilton</item>
+                  <item>* John Hibbert</item>
+                  <item>* Peter Henriques</item>
+                  <item>* William Heathcott</item>
+                  <item>* Isabella Hutchinson</item>
+                  <item>* Charles Hutchinson</item>
+                  <item>* <hi>Dame</hi> Barbara Henly</item>
+                  <item>* Robert Henly</item>
+                  <item>* Samuel Harwar</item>
+                  <item>* Mordecai Hewet</item>
+                  <item>* Thomas Hope</item>
+                  <item>* <hi>Dame</hi> Hester Harvart</item>
+                  <item>* Francis Highem</item>
+                  <item>* <hi>Doctor</hi> Edward Hulse</item>
+                  <item>* John Hazelwood</item>
+                  <item>* Richard Hamond</item>
+                  <item>* Francis Hill</item>
+                  <item>* Rowland Hunt</item>
+                  <item>* Benjamin Hatly</item>
+                  <item>* Jeremiah Hale</item>
+                  <item>* Bedingfield Heigham, <hi>Sen.</hi>
+                  </item>
+                  <item>* William Hill</item>
+                  <item>* <hi>Dame</hi> Ann Hedges</item>
+                  <item>* John Havet</item>
+                  <item>* Thomas Hobby</item>
+                  <item>* Maurice Hunt</item>
+                  <item>* Robert Harbin</item>
+                  <item>* Henry Harbin</item>
+                  <item>* Edward Hawley</item>
+                  <item>* Wynne Houblon</item>
+                  <item>* Nathaniel Houlton</item>
+                  <item>* Robert Hall</item>
+                  <item>* <hi>Lady</hi> Katherine Herbert</item>
+                  <item>* John Hall</item>
+                  <item>* Gilbert Horsman</item>
+                  <item>Mary Howard</item>
+                  <item>John Heron</item>
+                  <item>Joseph Hide</item>
+                  <item>Henry Hatton</item>
+                  <item>Samuel Hiller</item>
+                  <item>Nathaniel Hiller</item>
+                  <item>
+                     <hi>Doctor</hi> Griffith Hatly</item>
+                  <item>George Hartly</item>
+                  <item>Robert Holliwell</item>
+                  <item>John Hoole</item>
+                  <item>Thomas Hartly</item>
+                  <item>Abraham Hallee</item>
+                  <item>Sarah Howard</item>
+                  <item>John Hatly</item>
+                  <item>William Hide</item>
+                  <item>Thomas Hemes</item>
+                  <item>Renea Hemes</item>
+                  <item>James Harding</item>
+                  <item>Mary Husler</item>
+                  <item>Michael Hide</item>
+                  <item>Edward Hobbema</item>
+                  <item>Richard Heuse</item>
+                  <item>Henry Hatton</item>
+                  <item>Joseph Hardy</item>
+                  <item>Robert Holt</item>
+                  <item>William Harding</item>
+                  <item>William Hall</item>
+                  <item>Jane Harvy</item>
+                  <item>Beddingfield Heigham, <hi>Jun.</hi>
+                  </item>
+                  <item>Hugh Houghton</item>
+                  <item>John Hanson</item>
+                  <item>Mary Hobby</item>
+                  <item>Charles Hopton</item>
+                  <item>Robert Hayward</item>
+                  <item>Jonathan Hardy</item>
+                  <item>**** Theodore Janssen</item>
+                  <item>**** Isaac Janssen</item>
+                  <item>** Peter Joye</item>
+                  <item>** Andrew Janssen</item>
+                  <item>* Joseph Jeakyll</item>
+                  <item>* Jeremiah Johnson</item>
+                  <item>* Peter Jaquin</item>
+                  <item>* Edward Jones</item>
+                  <item>* Joseph Jory</item>
+                  <item>* James Johnson</item>
+                  <item>* John Jones</item>
+                  <item>* Samuel Jeake</item>
+                  <item>* Jane Juliot</item>
+                  <item>* Francis Jenkins</item>
+                  <item>* Samuel Jones</item>
+                  <item>* Francis Ince</item>
+                  <item>* Richard Jackson</item>
+                  <item>Isaac Jurin</item>
+                  <item>Nehemiah Ingram</item>
+                  <item>Thomas Jekell</item>
+                  <item>John Johnson</item>
+                  <item>Christopher Jefferson</item>
+                  <item>Gilbert Inns</item>
+                  <item>Francis Jenkins</item>
+                  <pb n="3" facs="tcp:33767:6"/>
+                  <item> Michel dela Juganiere</item>
+                  <item>Henry James</item>
+                  <item>**** John Knight</item>
+                  <item>* <hi>Sir</hi> Edmund King</item>
+                  <item>* <hi>Sir</hi> Godfrey Kneller</item>
+                  <item>* William Knight</item>
+                  <item>* Charles Killegrew</item>
+                  <item>* Judith Kifford</item>
+                  <item>* John Kenrick</item>
+                  <item>* Thomas King</item>
+                  <item>Peter Kidd</item>
+                  <item>Maurice King</item>
+                  <item>Hannah Keeling</item>
+                  <item>Edward Keeling</item>
+                  <item>Lucy Kekewich</item>
+                  <item>Aaron Kinton</item>
+                  <item>Arthur Kay</item>
+                  <item>Israel Kinton</item>
+                  <item>Henry Keates</item>
+                  <item>Thomas Kirk</item>
+                  <item>Henry Kingsley</item>
+                  <item>Samuel Keeling</item>
+                  <item>**** <hi>His Grace the Duke of</hi> Leeds</item>
+                  <item>**** John Lordell</item>
+                  <item>**** John Lloyd</item>
+                  <item>*** Dame Jane Lethieulier</item>
+                  <item>*** Benjamin Lordell</item>
+                  <item>** Sir Richard Lever <hi>Kt. Ald.</hi>
+                  </item>
+                  <item>** Sir Salathiel Lovel <hi>Kt. Recorder</hi>
+                  </item>
+                  <item>** Robert Liddell</item>
+                  <item>** Samuel Lethieullier</item>
+                  <item>** Edward Littleton <hi>Merchant</hi>
+                  </item>
+                  <item>** Samuel Lock</item>
+                  <item>* <hi>The Right Honourable</hi> William <hi>Lord</hi> Lempster</item>
+                  <item>* Sir Roger Langley <hi>Bar.</hi>
+                  </item>
+                  <item>* Sir Berkley Lucy <hi>Bar.</hi>
+                  </item>
+                  <item>* William Lownds</item>
+                  <item>* Richard Leech</item>
+                  <item>* William Lethieullier</item>
+                  <item>* Christopher Lethieullier</item>
+                  <item>* Benjamin Lethieullier</item>
+                  <item>* Anne Lethieullier</item>
+                  <item>* Mary Lethieullier</item>
+                  <item>* Jonathan Leigh</item>
+                  <item>* James Leaver</item>
+                  <item>* Peter Laroach</item>
+                  <item>* Giles Lydcott</item>
+                  <item>* Edward Lloyd</item>
+                  <item>* Samuel Lowe</item>
+                  <item>* Martin Lister</item>
+                  <item>* Samuel Lordell</item>
+                  <item>* Peter de Lannoy</item>
+                  <item>* John Lambert</item>
+                  <item>* Nathaniel Long</item>
+                  <item>* George Liddell</item>
+                  <item>* Anne Long</item>
+                  <item>* Rebecca London</item>
+                  <item>* William Ladds</item>
+                  <item>* Henry Liddell</item>
+                  <item>* Edward Lewis</item>
+                  <item>* Joshua Lomax</item>
+                  <item>* Christopher Lister</item>
+                  <item>* John Lock</item>
+                  <item>* Thomas Lister</item>
+                  <item>* Isaac Loader</item>
+                  <item>* Oliver Long</item>
+                  <item>* William Lawley</item>
+                  <item>* Thomas Langham</item>
+                  <item>* Luke Lillington</item>
+                  <item>* Alexander Lorrimer</item>
+                  <item>* Elizabeth Liddell</item>
+                  <item>* John Laynge</item>
+                  <item>* Edward Littleton</item>
+                  <item>* George London</item>
+                  <item>* Patrick Lambe</item>
+                  <item>* Nathaniel Lacy</item>
+                  <item>Dame Elizabeth Lloyd</item>
+                  <item>John Ling <hi>Senior</hi>
+                  </item>
+                  <item>Thomas Lockington</item>
+                  <item>Thomas Long</item>
+                  <item>Elizabeth Lloyd</item>
+                  <item>Richard Lilburne</item>
+                  <item>Anne Lloyd</item>
+                  <item>John Levingston</item>
+                  <item>Benjamin Levy</item>
+                  <item>Mary Leigh</item>
+                  <item>Susanna de Laage</item>
+                  <item>William Lambe</item>
+                  <item>Philip Lemon</item>
+                  <item>Robert Lane</item>
+                  <item>Roger Lacy</item>
+                  <item>Nicholas de Lovigney</item>
+                  <item>John Langham</item>
+                  <item>Abraham Lethieullier</item>
+                  <item>Caleb Lowdam</item>
+                  <item>John Lee</item>
+                  <item>Richard Lucas</item>
+                  <item>**** Sir John Morden <hi>Bar.</hi>
+                  </item>
+                  <item>**** Robert Marshall</item>
+                  <item>**** Thomas Mulsoe</item>
+                  <item>**** Dame Anne Mason</item>
+                  <item>*** Nic. de Monceau</item>
+                  <item>** <hi>The Right Honourable</hi> Charles Montague <hi>Esq;</hi>
+                  </item>
+                  <item>** Edward Mellish</item>
+                  <item>** Richard Mead</item>
+                  <item>* Sir Robert Marsham</item>
+                  <item>* Sir George Meggott</item>
+                  <item>* <hi>The Honourable</hi> Henry May<g ref="char:EOLhyphen"/>nard <hi>Esq;</hi>
+                  </item>
+                  <item>* <hi>The Honourable</hi> Richard Mon<g ref="char:EOLhyphen"/>tague <hi>Esq;</hi>
+                  </item>
+                  <item>* <hi>Major General de la</hi> Melionere</item>
+                  <item>* Charles Musters</item>
+                  <item>* Abraham Meure</item>
+                  <item>* John de Maistre</item>
+                  <item>* Ferdinando Mendez</item>
+                  <item>* William Merry</item>
+                  <item>* Alexander Merriel</item>
+                  <item>* Katharine Marshall</item>
+                  <item>* William Metcalfe</item>
+                  <item>* Richard Morton</item>
+                  <item>* Francis Martyn</item>
+                  <item>* Nathaniel Micklethwaite</item>
+                  <item>* James Misson</item>
+                  <item>* Richard Milner</item>
+                  <item>* William Mason</item>
+                  <item>* William Mead <hi>Junior</hi>
+                  </item>
+                  <item>* John Machel</item>
+                  <item>* Rebecca Mercer</item>
+                  <item>* Thomas Mercer</item>
+                  <item>* Thomas Miller.</item>
+                  <item>* <hi>Admiral</hi> Michel</item>
+                  <item>* Edward Merry</item>
+                  <item>* George Meggott</item>
+                  <item>* <hi>Dr.</hi> John Mapletoft</item>
+                  <item>* Mathew Mead</item>
+                  <item>* Alex. Mariette</item>
+                  <item>* Thomas Man</item>
+                  <item>* Antho. de Massanes</item>
+                  <item>* Ralph Marshal</item>
+                  <item>* Martha Millington</item>
+                  <item>* John Mallory</item>
+                  <item>* William Masters</item>
+                  <item>* Francis Morley</item>
+                  <item>* Richard Meredith</item>
+                  <item>* Richard Mulis</item>
+                  <item>* Anthony Meeke</item>
+                  <item>* William Millman</item>
+                  <item>* <hi>Dr.</hi> Charles Morton</item>
+                  <item>* Robert Molesworth</item>
+                  <item>* Alice Moneaux</item>
+                  <item>* Robert Michel</item>
+                  <item>* Francis Mariette</item>
+                  <item>* John Milner</item>
+                  <item>
+                     <hi>The Honourab.</hi> Philippa Mohun</item>
+                  <item>Sarah Mathew</item>
+                  <item>Ann Moss</item>
+                  <item>Nath. Mason</item>
+                  <item>Charles Moreau</item>
+                  <item>Henry Million</item>
+                  <item>Clode de la Moothe</item>
+                  <item>Peter Montels</item>
+                  <item>John Mallenoe</item>
+                  <item>Mary Monceau</item>
+                  <item>Mary de Meherence</item>
+                  <item>Thomas Murry</item>
+                  <item>Joseph Mason</item>
+                  <item>Samuel Mountfort</item>
+                  <item>Sarah Moore</item>
+                  <item>Henry Martin</item>
+                  <item>Nathaniel Maber</item>
+                  <item>Jacob Marsom</item>
+                  <item>Thomas Man <hi>Junior</hi>
+                  </item>
+                  <item>Elizabeth Merchant</item>
+                  <item>Dr. Edward Maynard.</item>
+                  <item>James Mathews</item>
+                  <item>Adrian Moor</item>
+                  <item>Robert Morriceson</item>
+                  <item>Jennet Movatt</item>
+                  <item>John Meller</item>
+                  <item>John Monteage</item>
+                  <item>William Mathews.</item>
+                  <item>* Sir Richard Newdigate</item>
+                  <item>* John Nichol</item>
+                  <item>* John Newton</item>
+                  <item>* William Norris</item>
+                  <item>* Robert Nott</item>
+                  <item>* Edward Nicholas</item>
+                  <item>* Richard Newman</item>
+                  <item>* Daniel Nichols</item>
+                  <item>* William Nicholas</item>
+                  <item>* Edward Northey</item>
+                  <item>* Michel Noble</item>
+                  <item>Peter Nepveu</item>
+                  <item>Jane Nichol</item>
+                  <item>John Newborough</item>
+                  <item>Peter de Neufville</item>
+                  <item>Edward Nutt</item>
+                  <item>Thomas Napleton</item>
+                  <item>William Noble</item>
+                  <item>Joseph Newell</item>
+                  <item>Peter Newcom</item>
+                  <item>Jonathan Newman</item>
+                  <item>Richard Nixon</item>
+                  <item>Martha Newstreet</item>
+                  <item>*** <hi>The Right Honourable</hi> John <hi>Lord</hi> Ossulston</item>
+                  <item>* Sir James Oxenden <hi>Bar.</hi>
+                  </item>
+                  <item>* Doctor George Oxenden</item>
+                  <item>* Benjamin Overton</item>
+                  <item>* James Oades</item>
+                  <item>* George Orlebaer</item>
+                  <item>Edward Odel</item>
+                  <item>Elizabeth Ogi by</item>
+                  <item>George Oldner</item>
+                  <item>Francis Osboiston</item>
+                  <item>Lidia Odam</item>
+                  <item>**** <hi>The Right Honourable</hi> William <hi>Earl of</hi> Portland</item>
+                  <item>**** Anthony Parsons</item>
+                  <item>** <hi>The Right Honourable</hi> Thomas <hi>Earl of</hi> Pembroke</item>
+                  <item>** <hi>The Honourable</hi> Henry Priest<g ref="char:EOLhyphen"/>man.</item>
+                  <item>** John Paige</item>
+                  <item>** William Paterson</item>
+                  <item>** William Payne</item>
+                  <item>** Cesar Paget</item>
+                  <item>** William Philips, <hi>Grocer</hi>
+                  </item>
+                  <item>** Francis Parry</item>
+                  <item>* Thomas Pickard</item>
+                  <item>* Peter Parker</item>
+                  <item>* William Peris</item>
+                  <item>* James Hullen de Praigne</item>
+                  <item>* James Pettlt</item>
+                  <item>* John Pratt</item>
+                  <item>* George Paske</item>
+                  <item>* Ann Pickard</item>
+                  <item>* Henry Poorton</item>
+                  <item>* Robert Pittman</item>
+                  <item>* Daniel Perkins</item>
+                  <item>* Robert le Plaisterier</item>
+                  <item>* William Procter</item>
+                  <item>* Jeremiah Powel</item>
+                  <item>* Thomas Pindar</item>
+                  <item>* William Philips</item>
+                  <item>* John Pultney</item>
+                  <item>* Edward Pauncesort</item>
+                  <item>* Leonard Plukenet</item>
+                  <item>* Thomas Payne</item>
+                  <item>* Francs Pigot</item>
+                  <item>* Benjamin Poole</item>
+                  <item>* Thomas Pitt</item>
+                  <item>* William Pink</item>
+                  <item>* John Pack</item>
+                  <item>* James Partherich</item>
+                  <item>* Robert Pitt</item>
+                  <item>* Samuel Powell</item>
+                  <item>* Francis Pengelly</item>
+                  <item>* Robert Pullein</item>
+                  <item>John de la Perrelle</item>
+                  <item>Edward Parker</item>
+                  <item>Robert Purnell</item>
+                  <item>Andrew Philips</item>
+                  <item>Edmund Prideaux</item>
+                  <item>Richard Pope</item>
+                  <item>Edward Philips</item>
+                  <item>Edward Polter</item>
+                  <item>Mary Philips</item>
+                  <item>John Player</item>
+                  <item>Joseph Pask</item>
+                  <item>Thomas Parkhurst</item>
+                  <item>David Primrose</item>
+                  <item>Henry Powle</item>
+                  <item>Mary Palmer</item>
+                  <item>Susan Payne</item>
+                  <item>Elizabeth Parker</item>
+                  <item>Lewis and Francis Pettit</item>
+                  <item>Samuel Perry</item>
+                  <item>Mary Pitt</item>
+                  <item>Margaret Pettitot</item>
+                  <item>John Pursloe</item>
+                  <item>Jonas Proast</item>
+                  <item>Arthur Palmer</item>
+                  <item>John Prevost</item>
+                  <item>Ann Povey</item>
+                  <item>**** <hi>Sir</hi> Ralph Radcliff</item>
+                  <item>**** Robert Raworth</item>
+                  <item>**** William Russell</item>
+                  <item>** <hi>The Right Honourable</hi> Edward <hi>Lord</hi> Russell</item>
+                  <item>** <hi>Sir</hi> Leonard Robinson</item>
+                  <item>** Charles Ribot</item>
+                  <item>** Mathew Raper</item>
+                  <item>** George Richards</item>
+                  <item>** Luke Robinson</item>
+                  <item>** Moses Raper</item>
+                  <item>** Hilary Renew</item>
+                  <item>** Mary Read</item>
+                  <item>** Peter Renew</item>
+                  <item>** Samuel Rawstorne</item>
+                  <item>* <hi>Sir</hi> James Read <hi>Bar.</hi>
+                  </item>
+                  <item>* <hi>Sir</hi> Charles Raleigh <hi>Kt.</hi>
+                  </item>
+                  <item>* <hi>Dame</hi> Ratclisse</item>
+                  <item>* Philip Ryley</item>
+                  <item>* George Robinson</item>
+                  <item>* John Richards</item>
+                  <item>* Richard Russell</item>
+                  <item>* Robert Rowland</item>
+                  <item>* Robert Rigden</item>
+                  <item>* Thomas Raylton</item>
+                  <item>* Samuel Ravenell</item>
+                  <item>* Thomas Rand</item>
+                  <item>* Henry Roads</item>
+                  <item>* Elizabeth Rose</item>
+                  <item>* Samuel Russell</item>
+                  <item>* Thomas Rutty</item>
+                  <item>* William Richardson</item>
+                  <item>* Samuel Read</item>
+                  <item>* John Round</item>
+                  <item>* Edward Richier</item>
+                  <item>* John Royle</item>
+                  <item>* Christopher Ross</item>
+                  <item>* James Richardson</item>
+                  <item>* Christ Rich</item>
+                  <item>* Edward Rolt</item>
+                  <item>* Jacob Reynoldson</item>
+                  <item>* Thomas Rudge</item>
+                  <item>John Rogers</item>
+                  <item>Samuel Rayson</item>
+                  <item>Cha. Rampaine</item>
+                  <item>Mary Robinson</item>
+                  <item>John de Rensy de Montigny</item>
+                  <item>Robert Rayment</item>
+                  <item>Andr. le Roy</item>
+                  <item>Fiducia Raper</item>
+                  <item>John Rashleigh</item>
+                  <item>Robert Ridout</item>
+                  <item>Richard Rowdon</item>
+                  <item>William Rooke</item>
+                  <item>Ant. Riviere</item>
+                  <item>William Rogers</item>
+                  <item>Ann Redshaw</item>
+                  <item>Henry Row</item>
+                  <item>**** Sir William Scawen</item>
+                  <item>**** John Smith, <hi>Beauford-buildings</hi>
+                  </item>
+                  <item>**** Obadiah Sedgwick</item>
+                  <item>**** Henry Spencer</item>
+                  <item>**** John Smith, <hi>Silkman</hi>
+                  </item>
+                  <item>**** John Shipman</item>
+                  <item>**** Thomas Scawen</item>
+                  <item>*** Francis Scoble</item>
+                  <item>** <hi>The Honourable</hi> John Smith</item>
+                  <item>** <hi>Sir</hi> Jeremiah Sambrooke</item>
+                  <item>** Hugh Smithson</item>
+                  <item>** William Symon</item>
+                  <item>** Gerrard Sohni<gap reason="illegible: blotted" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </item>
+                  <item>** Stephen Seignoret</item>
+                  <item>** Gabriel Smith</item>
+                  <pb n="4" facs="tcp:33767:7"/>
+                  <item>** Richard Sterne</item>
+                  <item>** Anthony Stevens</item>
+                  <item>** Thomas Sheppard</item>
+                  <item>** Humphry Simpson</item>
+                  <item>** Hugh Squire</item>
+                  <item>* <hi>Sir</hi> Cloudesly Shovel</item>
+                  <item>* <hi>The Honourable Lady</hi> Margret Sawyer</item>
+                  <item>* <hi>Sir</hi> Bartholomew Shower</item>
+                  <item>* <hi>Sir</hi> Edward Selwin</item>
+                  <item>* Robert Stamper</item>
+                  <item>* Jacob Sawbridge</item>
+                  <item>* Alice Spencer</item>
+                  <item>* Richard Savage</item>
+                  <item>* Robert Scawen</item>
+                  <item>* Robert Sawyer</item>
+                  <item>* Dorothy Smith</item>
+                  <item>* Edward Shaller</item>
+                  <item>* John Sanson</item>
+                  <item>* Joshua Sheppard</item>
+                  <item>* William Snelling</item>
+                  <item>* Philip Savage</item>
+                  <item>* Edward Shepheard</item>
+                  <item>* Humphry South</item>
+                  <item>* Robert Stevens</item>
+                  <item>* Samuel Skinner</item>
+                  <item>* Daniel Short</item>
+                  <item>* Francis Stonehouse</item>
+                  <item>* Henry Sykes</item>
+                  <item>* Thomas Saunders</item>
+                  <item>* Margaret Saunders</item>
+                  <item>* Edmund Sheppard</item>
+                  <item>* Benjamin Scot</item>
+                  <item>* Frederick Slayer</item>
+                  <item>* John Soame</item>
+                  <item>* Samuel Skinner</item>
+                  <item>* William Snell</item>
+                  <item>* Henry Scardeville</item>
+                  <item>* George Sayer</item>
+                  <item>* John Shaw</item>
+                  <item>* Richard Simms</item>
+                  <item>* Francis Smartfoot</item>
+                  <item>* James Smith</item>
+                  <item>* Robert Smithson</item>
+                  <item>* John Singleton</item>
+                  <item>* George South</item>
+                  <item>* Henry Stroud</item>
+                  <item>* Stephen Sedgwick</item>
+                  <item>* John Stonier</item>
+                  <item>* Thomas Sutton</item>
+                  <item>* Henry Sampson</item>
+                  <item>* Thomas Sheckell</item>
+                  <item>* Robert Seale</item>
+                  <item>* Alexander Sasserie</item>
+                  <item>Dame Judith Shirley</item>
+                  <item>John Strong</item>
+                  <item>Isaac Sherd</item>
+                  <item>Robert Shaw</item>
+                  <item>Thomas Serocold</item>
+                  <item>Edward Smith</item>
+                  <item>Barnard Smith</item>
+                  <item>William Staresmore</item>
+                  <item>Ann Stroughton</item>
+                  <item>Joshua Sharpe</item>
+                  <item>Wollfang de Smitteau</item>
+                  <item>Joshua Sherman</item>
+                  <item>George Smith</item>
+                  <item>Christopher Spicer</item>
+                  <item>Robert Swinton</item>
+                  <item>Anne Spire</item>
+                  <item>Robert Sherwin</item>
+                  <item>Edward Stanton</item>
+                  <item>Richard Stouton</item>
+                  <item>Jacob Summers</item>
+                  <item>Crace Smith</item>
+                  <item>Ann Shadwell</item>
+                  <item>John Stubbs</item>
+                  <item>Elisabeth South</item>
+                  <item>Mary Stevens</item>
+                  <item>Susan Simon</item>
+                  <item>Jonathan Scott</item>
+                  <item>Thomas Stanton</item>
+                  <item>Katherine Summers</item>
+                  <item>Peter Sesserie</item>
+                  <item>Joshua Smith</item>
+                  <item>Samuel Staply</item>
+                  <item>Thomas Smith</item>
+                  <item>James Six</item>
+                  <item>Joyce Sayer</item>
+                  <item>Richard Springett</item>
+                  <item>Richard Southel</item>
+                  <item>**** <hi>The Right Honourable Sir</hi> John Trenchard</item>
+                  <item>*** Nathaniel Tench</item>
+                  <item>** Thomas Trenchard</item>
+                  <item>** John Taylor, <hi>Hackney</hi>
+                  </item>
+                  <item>** Henry Tate</item>
+                  <item>** John Trimmer</item>
+                  <item>** Charles Thorold</item>
+                  <item>** Susanna Toriano</item>
+                  <item>** Francis Tyssen</item>
+                  <item>** Ashburham Toll</item>
+                  <item>** Nicholas Tourton</item>
+                  <item>* Thomas Tipping</item>
+                  <item>* Francis Tyrond</item>
+                  <item>* Jacob Tonson</item>
+                  <item>* John Tutt</item>
+                  <item>* Henry Traveis</item>
+                  <item>* John Taylor, <hi>Budgerow</hi>
+                  </item>
+                  <item>* John Thorold</item>
+                  <item>* John Townesend</item>
+                  <item>* <hi>Doctor</hi> Edward Tyssen</item>
+                  <item>* Thomas Trueman</item>
+                  <item>* Abraham Tillard</item>
+                  <item>* John Taylor, <hi>Westminster</hi>
+                  </item>
+                  <item>* John Tourvin</item>
+                  <item>* Nathaniel Toriano</item>
+                  <item>* Jonathan Tabor</item>
+                  <item>* Thomas Tompion</item>
+                  <item>* Joseph Tompson</item>
+                  <item>* Daniel Teinturier</item>
+                  <item>* Henry Trenchard</item>
+                  <item>* William Tindall</item>
+                  <item>* Francis Taylor</item>
+                  <item>* Ann Thorold</item>
+                  <item>* William Tothall</item>
+                  <item>* Elizabeth Tessereau</item>
+                  <item>* Thomas Tanner</item>
+                  <item>* Joseph Tomlins</item>
+                  <item>Christopher Tilson</item>
+                  <item>Henry Tursrnitten</item>
+                  <item>Aaron Testas</item>
+                  <item>Isaac Tanquery</item>
+                  <item>Leonard Towne</item>
+                  <item>Edward Terry</item>
+                  <item>Thomas Tomlins</item>
+                  <item>Elizabeth Thatcher</item>
+                  <item>Robert Trale</item>
+                  <item>Edward Theadam</item>
+                  <item>Benjamin Thody</item>
+                  <item>John Thuret</item>
+                  <item>Stephen du Thoit</item>
+                  <item>Christopher Tod</item>
+                  <item>Margaret Tuckfeild</item>
+                  <item>Ann Tipping</item>
+                  <item>William Taylor</item>
+                  <item>John Taure</item>
+                  <item>** <hi>The Right Honourable</hi> Edward <hi>Lord</hi> Villiers</item>
+                  <item>** Constantine Vernatty</item>
+                  <item>* Sir Peter Vandeputt</item>
+                  <item>* Thomas Vernon</item>
+                  <item>* Peter Vandermerch</item>
+                  <item>* David de Varenne</item>
+                  <item>* Gerrard Vanheythuysen</item>
+                  <item>* Thomas Uveddal</item>
+                  <item>* William Vega</item>
+                  <item>* Ann Lovise Varelles</item>
+                  <item>* Peter Vanlieuwen</item>
+                  <item>* John Vince</item>
+                  <item>* John Vandebenby</item>
+                  <item>* James Vernon</item>
+                  <item>John Verney</item>
+                  <item>John Vandorpe</item>
+                  <item>John Underhill</item>
+                  <item>Stephen Venables</item>
+                  <item>Louise Vareilles Beauchamp</item>
+                  <item>Charles de Vignoles</item>
+                  <item>Susanna de Vernatty</item>
+                  <item>Peter Valette</item>
+                  <item>Paul Vaillant</item>
+                  <item>Henry Van Bercham</item>
+                  <item>John Verhaest</item>
+                  <item>Bernard de Vignan</item>
+                  <item>**** <hi>Sir</hi> Patience Ward</item>
+                  <item>*** Charles Williams</item>
+                  <item>*** John Weston</item>
+                  <item>** John Ward</item>
+                  <item>** Godfrey Webster</item>
+                  <item>** John Woolfe</item>
+                  <item>** John Woolley</item>
+                  <item>* <hi>Sir</hi> Edward Wood</item>
+                  <item>* <hi>Sir</hi> John Werden</item>
+                  <item>* <hi>Sir</hi> Edward Waldo</item>
+                  <item>* Thomas Wood</item>
+                  <item>* Thomas Walker</item>
+                  <item>* Samuel Westall</item>
+                  <item>* Roger Williams</item>
+                  <item>* Robert Walker</item>
+                  <item>* Matthew Wright</item>
+                  <item>* Humphry Willet</item>
+                  <item>* Thomas Winchurst</item>
+                  <item>* Robert Woolley</item>
+                  <item>* Josiah Wordsworth</item>
+                  <item>* John Warren</item>
+                  <item>* Robert Wintour</item>
+                  <item>* Philip Wheak</item>
+                  <item>* Nicholas Wayte</item>
+                  <item>* Joseph Waldo</item>
+                  <item>* Christopher Whitchco</item>
+                  <item>* John Woolley</item>
+                  <item>* Samuel Watts</item>
+                  <item>* Thomas Woodcock</item>
+                  <item>* William Walker</item>
+                  <item>* Katherine Windham</item>
+                  <item>* Peter Walter</item>
+                  <item>* Francis Windham</item>
+                  <item>* Bazill Wood</item>
+                  <item>* Benjamin Wrench</item>
+                  <item>* Thomas Westerneman</item>
+                  <item>* Robert Westerneman</item>
+                  <item>* Katherine Windham</item>
+                  <item>* Samuel Wickins.</item>
+                  <item>* Nathaniel Wood</item>
+                  <item>* Daniel Williams</item>
+                  <item>* Alethea Ward</item>
+                  <item>* Bedford Whiteing</item>
+                  <item>* James West</item>
+                  <item>* Thomas Walden</item>
+                  <item>* Samuel Winder</item>
+                  <item>* John Wade</item>
+                  <item>* William Whitmore</item>
+                  <item>* Rice Watkins.</item>
+                  <item>Samuel Wheatly</item>
+                  <item>Jos. Wilson</item>
+                  <item>Nicholas Woollaston</item>
+                  <item>Robert Winnington</item>
+                  <item>Joseph Webster</item>
+                  <item>Anne Warren</item>
+                  <item>Mary White</item>
+                  <item>Joseph Webster</item>
+                  <item>Francis Wiseman</item>
+                  <item>John Wilcocks</item>
+                  <item>William Wright</item>
+                  <item>Mary White</item>
+                  <item>William Wicks</item>
+                  <item>Mathew Wright</item>
+                  <item>Sarah Westcomb</item>
+                  <item>Samuel Wilmer</item>
+                  <item>St. Nicholas Watts</item>
+                  <item>Thomas Wharton</item>
+                  <item>Francis Witherley</item>
+                  <item>Thomas Wickins</item>
+                  <item>Elizabeth <hi>and</hi> Jane Whiston</item>
+                  <item>George Walls</item>
+                  <item>Thomas Ward</item>
+                  <item>William Wisdome</item>
+                  <item>Gabriel Walter</item>
+                  <item>Samuel Weely</item>
+                  <item>Anne Wingfield</item>
+                  <item>Christiana Wills</item>
+                  <item>John Whitehall</item>
+                  <item>Mary Whincup</item>
+                  <item>John Whitehead</item>
+                  <item>* Richard Yerbury</item>
+                  <item>* Robert Yard</item>
+                  <item>John Young</item>
+                  <item>William Yalden</item>
+                  <item>John Yardly</item>
+                  <item>Francis Yates</item>
+                  <item>Jane Zuliston</item>
+                  <trailer>FINIS.</trailer>
+               </list>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
